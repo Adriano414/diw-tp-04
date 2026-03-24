@@ -29,4 +29,4 @@ Este projeto é um site sobre lugares e experiencias únicas,com o objetivo de a
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
-![Home] (public/print-home-page.png)
+![Home](public/print-home-page.png)
