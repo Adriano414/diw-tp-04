@@ -8,10 +8,16 @@ Nesta atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome:Adriano de Jesus Alves
+- Matrícula:906517
 - Proposta de projeto escolhida:
+Lugares e Experiencias Únicas 
+
+.Entidade principal:Lugar(cidades,parques,pontos turísticos)
+.Entidade secundária:Experiencias(visitas,passeios,atividades)
 - Breve descrição sobre seu projeto:
+
+Este projeto é um site sobre lugares e experiencias únicas,com o objetivo de apresentar pontos turísticos e atividades que podem ser realizadas em diferentes locais.
 
 
 ## Print do(s) wireframe(s) criado(s)
@@ -23,3 +29,4 @@ Nesta atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Home] (public/print-home-page.png)
