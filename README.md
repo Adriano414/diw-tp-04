@@ -24,6 +24,7 @@ Este projeto é um site sobre lugares e experiencias únicas,com o objetivo de a
 > Sugestão, use o Excalidraw para isso. Utilize este [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
 <<  COLOQUE A IMAGEM AQUI >>
+![Home](public/print-wireframe.png.png)
 
 
 ## Print da home-page criada
